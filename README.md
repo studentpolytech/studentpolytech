@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, меня зовут [Ваше Имя]! 👋
 
-<!--
-**studentpolytech/studentpolytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Обо мне
 
-Here are some ideas to get you started:
+Я студент. Люблю создавать маленькие проекты, которые момогают развить мои навыки программирования.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Изучаю: python(django, pandas, selenium), sql, работу api
+- 📫 Как связаться: ivanov.mihail.anatolyevich.2005@gmial.com
+
+## 📈 Статистика GitHub
+
+![Ваша статистика](https://github-readme-stats.vercel.app/api?username=studentpolytech&show_icons=true&theme=radical)
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=studentpolytech&layout=compact&theme=radical)
